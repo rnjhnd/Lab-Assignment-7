@@ -10,4 +10,5 @@ Create a repository in your GitHub account. Put your solution there. In the read
 
 Make sure you have a TestProgram that will validate the proposed refactored codes.
 
-UML Class Diagram
+###UML Class Diagram
+![UML Class Diagram](https://github.com/ArenJohnD/Lab-Assignment-7/assets/152838648/d5516a56-1814-4f78-8db1-c1577b9de1dd)
